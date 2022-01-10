@@ -1,3 +1,4 @@
 # Sample-Notes-App
 
 
+This is a sample project using DOM's concept, **json** and  **ajax** ...It is used for taking important notes, you can also add the topic and content for your notes on your own.
